@@ -1,0 +1,61 @@
+html {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: 'Source Serif Pro', serif;
+    text-align: left;
+    font-size: 24px;
+    color: #268bd2;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h3 {
+    font-family: 'Source Serif Pro', serif;
+    color: #cb4b16;
+}
+
+
+hr {
+    width: 90%;
+    color: #586e75;
+}
+
+body {
+    background-color: #fdf6e3;
+    color: #657b83;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.section {
+    text-align: left;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+}
+
+.date {
+    float: right;
+    font-style: italic;
+    color: #859900;
+}
+
+.item {
+    float: left;
+    font-style: oblique;
+    color: #cb4b16;
+}
+
+.clear {
+    clear: both;
+}
