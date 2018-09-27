@@ -38,6 +38,15 @@ ul {
     list-style-type: circle;
 }
 
+#portrait {
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 140px;
+    height: 140px;
+
+}
+
 .section {
     text-align: left;
     margin-left: 7.5%;
@@ -58,4 +67,12 @@ ul {
 
 .clear {
     clear: both;
+}
+
+.bioTitle {
+    float: left;
+    font-size: 36px;
+    margin-top: 10px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
 }
